@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
 
 body {
-    background-color: lightcyan;
+    background-color: rgb(212, 255, 255);
     font-family: 'League Spartan', 'Open Sans';
     font-weight: 0;
+    max-width: 420px;
+    margin: 0 auto;
+}
+nav {
+  margin-top: 12px;
 }
 
 h1 {
@@ -15,3 +20,108 @@ h2 {
 h3 {
     color: blueviolet;
 }
+p, li {
+    color: #3d596e;
+}
+
+/* Position styles */
+.center {
+  text-align: center;
+}
+
+
+/* List Styles */
+li {
+    padding-bottom: 8px;
+}
+
+/* Colors */
+
+  .light-blue {
+    color: #add8e6; /* Light pastel blue */
+  }
+  
+  .mint-green {
+    color: #4cff4c; /* Soft minty green */
+  }
+  
+  .peach {
+    color: #ffb265; /* Warm pastel peach */
+  }
+  
+  .lavender {
+    color: #cdcdff; /* Light purple pastel */
+  }
+  
+  .soft-pink {
+    color: #ffc0cb; /* Classic pastel pink */
+  }
+  
+  .baby-yellow {
+    color: #fff9c4; /* Gentle pastel yellow */
+  }
+  
+  .powder-blue {
+    color: #b0e0e6; /* Powdery soft blue */
+  }
+  
+  .pale-orange {
+    color: #ffdab9; /* Subtle pastel orange */
+  }
+  
+  .misty-rose {
+    color: #ffaea5; /* Rosy pastel pink */
+  }
+  
+  .pale-lilac {
+    color: #c2adff; /* Gentle pastel lilac */
+  }
+  
+  .mint-cream {
+    color: #f5fffa; /* Almost white mint pastel */
+  }
+
+  /* Dark Colors */
+
+  .dark-blue {
+    color: #355c7d; /* Muted, deep bluish purple */
+  }
+  
+  .deep-green {
+    color: #2e7d32; /* Rich, natural green */
+  }
+  
+  .earthy-peach {
+    color: #cc8963; /* Dusty peach with a brown undertone */
+  }
+  
+  .dusky-lavender {
+    color: #5d4954; /* Dark lavender-gray mix */
+  }
+  
+  .rosewood {
+    color: #8b5e5b; /* A deep reddish-pink */
+  }
+  
+  .gold-ochre {
+    color: #8d6e63; /* Soft gold with a brownish tint */
+  }
+  
+  .steel-gray {
+    color: #505e64; /* Cool-toned gray with hints of blue */
+  }
+  
+  .burnt-orange {
+    color: #bf5f32; /* Deeper, warm orange */
+  }
+  
+  .vintage-rose {
+    color: #7b5151; /* Dusty, darker rose hue */
+  }
+  
+  .muted-plum {
+    color: #4e3d53; /* Soft plum, leaning towards muted purple */
+  }
+  
+  .moody-teal {
+    color: #3d596e; /* Dark teal with gray undertones */
