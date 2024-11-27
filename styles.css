@@ -24,6 +24,13 @@ p, li {
     color: #3d596e;
 }
 
+aside {
+  font-style: italic;
+  padding-top: 4px;
+  color: rgb(56, 167, 203);
+  font-size: 14px;
+}
+
 .blue-violet {
   font-weight: 500;
   color: blueviolet;
