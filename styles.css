@@ -23,12 +23,21 @@ h3 {
 p, li {
     color: #3d596e;
 }
+
 .blue-violet {
   font-weight: 500;
   color: blueviolet;
 }
 
 /* Position styles */
+.intro {
+  text-align: center;
+}
+img {
+  border-radius: 8px;
+  display: inline block;
+}
+
 .center {
   text-align: center;
 }
