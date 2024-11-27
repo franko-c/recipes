@@ -23,6 +23,10 @@ h3 {
 p, li {
     color: #3d596e;
 }
+.blue-violet {
+  font-weight: 500;
+  color: blueviolet;
+}
 
 /* Position styles */
 .center {
